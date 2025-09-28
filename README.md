@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-[cite_start]A results-driven **Software Engineer** with 8 years of extensive experience in designing and developing scalable, secure, and high-performance web applications[cite: 5]. [cite_start]My expertise lies in **microservices architecture**, backend development, and database optimization[cite: 6]. [cite_start]I have a proven track record of enhancing system efficiency, refactoring legacy applications, and delivering production-ready solutions[cite: 6]. [cite_start]I am adept at writing clean, maintainable, and testable code across multiple technologies including PHP, Node.js, and Python[cite: 7].
+A results-driven **Software Engineer** with 8 years of extensive experience in designing and developing scalable, secure, and high-performance web applications[cite: 5]. [cite_start]My expertise lies in **microservices architecture**, backend development, and database optimization[cite: 6]. [cite_start]I have a proven track record of enhancing system efficiency, refactoring legacy applications, and delivering production-ready solutions[cite: 6]. [cite_start]I am adept at writing clean, maintainable, and testable code across multiple technologies including PHP, Node.js, and Python[cite: 7].
 
 ---
 
@@ -29,7 +29,7 @@ Here's a quick look at the technologies and tools I work with:
 
 ### 📝 My CV
 
-https://github.com/Dev-Ahmed-Alaa/dev-ahmed-alaa/blob/main/Ahmed%20Alaa.pdf
+This section contains my full professional experience and education. For a downloadable version, please check the releases or a dedicated `CV` folder in this repository.
 
 #### 💼 Professional Experience
 
