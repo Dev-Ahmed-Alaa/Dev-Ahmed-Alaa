@@ -3,7 +3,7 @@
 ---
 
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBkH9QyXfW/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHdjamNreXU1YngyZ3hnaTNhdm51d282YjNjOXhtZWQ5Y2hzYjdqbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ML15sUZFNyMy0Yv55m/giphy.gif)" width="100"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGg1ZXQ4amY2bGV1bnNkcHdtZTBhZmxiZzdtcnZreGZ1bHc3enUzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" width="100"/>
   <h2>🚀 Software Engineer | Scalable Systems & Product Engineering</h2>
 </div>
 
