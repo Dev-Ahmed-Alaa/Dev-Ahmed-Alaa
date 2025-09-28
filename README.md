@@ -3,7 +3,7 @@
 ---
 
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGg1ZXQ4amY2bGV1bnNkcHdtZTBhZmxiZzdtcnZreGZ1bHc3enUzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/Vgf52e2D01jV351x9u/giphy.gif" width="100"/>
   <h2>🚀 Software Engineer | Scalable Systems & Product Engineering</h2>
 </div>
 
