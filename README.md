@@ -29,7 +29,7 @@ Here's a quick look at the technologies and tools I work with:
 
 ### 📝 My CV
 
-This section contains my full professional experience and education. For a downloadable version, please check the releases or the `CV` folder in this repository.
+https://github.com/Dev-Ahmed-Alaa/dev-ahmed-alaa/blob/main/Ahmed%20Alaa.pdf
 
 #### 💼 Professional Experience
 
