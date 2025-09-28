@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-I’m a **Software Engineer** with 8 years of experience delivering end-to-end solutions across SaaS products, enterprise systems, web platforms, and microservices architectures. I work across **system design, backend engineering, DevOps collaboration, performance optimization, and product development** — not just refactoring.
+I’m a **Software Engineer** with 8 years of experience delivering end-to-end solutions across SaaS products, enterprise systems, web platforms, and microservices architectures. I work across **system design, Software engineering, DevOps collaboration, performance optimization, and product development** — not just refactoring.
 
 I build scalable and secure applications using **PHP, Node.js, and Python**, modernize legacy systems when needed, and work cross-functionally to turn business goals into reliable software.
 
