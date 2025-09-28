@@ -70,7 +70,7 @@ https://github.com/Dev-Ahmed-Alaa/dev-ahmed-alaa/blob/main/Ahmed%20Alaa.pdf
 I'm always open to new opportunities and collaborations. Feel free to reach out:
 
 **Email:** dev.ahmedalaa@gmail.com  
-**LinkedIn:** (Add your profile link here)  
+**LinkedIn:** https://www.linkedin.com/in/ahmed-alaa-a487a422a/  
 **GitHub:** (This profile!)
 
 <br>
